@@ -20,12 +20,11 @@
    text-align: center;
    align-items: center;
    text-transform: uppercase;
-   padding-bottom: 1%;
 }
 
 @media only screen and (max-width: 991px) {  
     .img {
-       padding-top: 10%;
+       padding-top: 5%;
     }
     .subtitle {
       font-size: smaller;
